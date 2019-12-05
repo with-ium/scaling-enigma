@@ -1,3 +1,5 @@
-# scaling-enigma
-Small projects done whilst learning code on the side.
+# RBX LUA MATH PARSER
+CHANGE INPUT ONLY
+
+ie. print(evaluate(BinaryTree(input)))
 
